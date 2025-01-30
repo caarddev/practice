@@ -6,4 +6,4 @@ n4 = str(input('Digite um nome: '))
 
 lista = [n1, n2, n3, n4]
 escolha = choice(lista)
-print("O(a) escolhido(a) pra limpar o quadro foi {}".format(n1,n2,n3,n4,escolha))
+print(f"O(a) escolhido(a) pra limpar o quadro foi {n1,n2,n3,n4,escolha}")

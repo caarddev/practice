@@ -1,1 +1,0 @@
-dias = int(input('Quantos dias você utilizou o carrro? '))kms = float(input('Quantos Kms voce rodou? '))diaria = (dias * 60) + (kms * 0.15)print('Voce usou o carro por {:.0f} e andou {:.1f}kms, o total a pagar é R${:.2f}'.format(dias,kms,diaria))
