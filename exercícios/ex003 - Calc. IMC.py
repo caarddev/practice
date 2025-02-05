@@ -1,6 +1,0 @@
-print('Calculadora de índice de massa corporal.')
-peso = float(input('Digite seu peso: '))
-altura = float(input('Digite sua altura: '))
-res = peso/(altura*altura)
-print(f'Seu índice de massa corporal é de {res}')
-print('O ideal é entre 16 e 26, se você está saudável.')
