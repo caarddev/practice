@@ -37,7 +37,7 @@ Se quiser trocar ideias ou sugerir melhorias, fique à vontade para me chamar!
 
 📧 [E-mail](mailto:vinicardmiranda@gmail.com)  
 🐙 [GitHub](https://github.com/vcaard)  
-💼 [LinkedIn](https://linkedin.com/in/vinicmiranda)  
+💼 [LinkedIn](https://linkedin.com/in/viniciuscarddoso)  
 
 ---
 📢 _Este repositório é um espaço de aprendizado! Caso encontre erros ou melhorias, contribuições e sugestões são bem-vindas!_
