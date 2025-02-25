@@ -1,6 +1,6 @@
 # 📚 Repositório de aprendizado
 
-Bem-vindo ao meu repositório de aprendizado! 🚀 Aqui você encontrará anotações, exercícios e projetos relacionados ao meu estudo de programação e desenvolvimento de software.
+Bem-vindo ao meu repositório de aprendizado! 🚀 Aqui você encontrará anotações e exercícios relacionados ao meu estudo de programação e desenvolvimento de software.
 
 ## 📌 Sobre o repositório
 
