@@ -5,5 +5,5 @@ B = int(input())
 C = int(input())
 D = int(input())
 
-diff = (A * B - C * D)
-print(f"DIFERENCA={diff}")
+diff = (A*B - C*D)
+print(f"DIFERENCA = {diff}")
