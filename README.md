@@ -1,43 +1,44 @@
-# 📚 Repositório de exercicios
+# 📚 Exercises Repository
 
-Bem-vindo ao meu repositório de aprendizado! 🚀 Aqui você encontrará anotações, exercícios e projetos relacionados ao meu estudo de programação e desenvolvimento de software.
+Welcome to my learning repository! 🚀 Here you’ll find notes, exercises, and projects related to my studies in programming and software development.
 
-## 📌 Sobre o repositório
+## 📌 About the Repository
 
-Este repositório serve como um espaço para documentar meus exercícios do Hackerrank, Beecrowd, Leetcode, Codewars, etc.
-
----
-
-### 🛠 Tecnologias e Ferramentas
-
-Atualmente neste repositório estou estudando e praticando com as seguintes tecnologias e ferramentas:
-
-- Estruturas de Dados e Algoritmos 📊
-- Frameworks e Bibliotecas 📦
-- Banco de Dados 🗄️
-- Desenvolvimento web 🌐
-- Desenvolvimento de software 🚀
-- Versionamento com Git e GitHub 🔄
-- Testes automatizados 🧪
+This repository serves as a space to document my exercises from HackerRank, Beecrowd, LeetCode, Codewars, etc.
 
 ---
 
-### 🎯 Objetivos
+### 🛠 Technologies and Tools
 
-- Melhorar minha lógica de programação e resolução de problemas.
-- Criar diferentes exercícios e situações para aplicar conceitos aprendidos.
-- Compartilhar meu progresso e manter um histórico de estudos.
-- Me preparar para atuar como desenvolvedor ou engenheiro de software.
+Currently, in this repository, I’m studying and practicing with the following technologies and tools:
+
+- Data Structures and Algorithms 📊  
+- Frameworks and Libraries 📦  
+- Databases 🗄️  
+- Web Development 🌐  
+- Software Development 🚀  
+- Version Control with Git and GitHub 🔄  
+- Automated Testing 🧪  
+
+---
+
+### 🎯 Goals
+
+- Improve my programming logic and problem-solving skills.  
+- Create different exercises and scenarios to apply the concepts I’ve learned.  
+- Share my progress and maintain a study history.  
+- Prepare myself to work as a developer or software engineer.  
 
 ---
 
-### 🔗 Contato
+### 🔗 Contact
 
-Se quiser trocar ideias ou sugerir melhorias, fique à vontade para me chamar!
+If you’d like to exchange ideas or suggest improvements, feel free to reach out!
 
-📧 [E-mail](mailto:vinicardmiranda@gmail.com)  
-🐙 [GitHub](https://github.com/vcaard)  
-💼 [LinkedIn](https://linkedin.com/in/viniciuscarddoso)  
+📧 [Email](mailto:vinicardmiranda@gmail.com)  
+🐙 [GitHub](https://github.com/vncarddoso)  
+💼 [LinkedIn](https://linkedin.com/in/viniciuscarddoso)
 
 ---
-📢 _Este repositório é um espaço de aprendizado! Caso encontre erros ou melhorias, contribuições e sugestões são bem-vindas!_
+
+📢 _This repository is a learning space! If you find any errors or improvements, contributions and suggestions are very welcome!_
