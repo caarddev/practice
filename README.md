@@ -31,14 +31,4 @@ Currently, in this repository, I’m studying and practicing with the following 
 
 ---
 
-### 🔗 Contact
-
-If you’d like to exchange ideas or suggest improvements, feel free to reach out!
-
-📧 [Email](mailto:vinicardmiranda@gmail.com)  
-🐙 [GitHub](https://github.com/vncarddoso)  
-💼 [LinkedIn](https://linkedin.com/in/viniciuscarddoso)
-
----
-
 📢 _This repository is a learning space! If you find any errors or improvements, contributions and suggestions are very welcome!_
